@@ -1,5 +1,5 @@
 # time_series_stocks
-Basic Time Series analysis with forecast
+Basic Time Series analysis with forecast. Values prediction with XGBoost
 
 Link on Kaggle:
 
